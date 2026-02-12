@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/khapham7165">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Frontend+Developer;UI%2FUX+Enthusiast;Pixel-Perfect+Craftsman;Clean+Code+Advocate" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/khapham7165">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=600&height=50&lines=Frontend+Developer;UI%2FUX+Enthusiast;Pixel-Perfect+Craftsman;Clean+Code+Advocate;Enthusiastic+Dev;Dev+Aesthetics" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khapham7165&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views">
