@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=600&height=50&lines=Frontend+Developer;UI%2FUX+Enthusiast;Pixel-Perfect+Craftsman;Clean+Code+Advocate;Enthusiastic+Dev;Dev+Aesthetics" alt="Typing SVG" />
 </a>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=khapham7165&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views">
 </p>
 
@@ -23,14 +23,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,postgres,nextjs,tailwind,sass,docker,git,github,vscode,neovim,vercel&perline=8" />
 </p>
 
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khapham7165/khapham7165/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
 
 ---
 
